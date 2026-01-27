@@ -11,6 +11,15 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "prompt-sync": "^4.2.0",
     "readline-sync": "^1.4.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaalmeida-dev/Java-Script-TJS13-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gaalmeida-dev/Java-Script-TJS13-/issues"
+  },
+  "homepage": "https://github.com/Gaalmeida-dev/Java-Script-TJS13-#readme"
 }
