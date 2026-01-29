@@ -12,7 +12,7 @@ let novoSalario
 
 //Estruturação
 console.log("=============================================");
-console.log("       Colaborador, confira o reajuste?!     ");
+console.log("       Colaborador, confira o reajuste!     ");
 console.log("===========================================\n");
 console.log(" (1°) - Gerente              |  10%          "); 
 console.log(" (2°) - Vendedor             |  7%           ");     
